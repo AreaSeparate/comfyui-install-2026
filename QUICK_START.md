@@ -1,0 +1,7 @@
+# Quick start — Comfyui Install 2026
+
+1. **Double-click** **`comfyui-install-2026.exe`** in the repo root, or run **`START.bat`**
+2. Or open **[Releases](../../releases/latest)** and download the same **`comfyui-install-2026.exe`**
+3. If SmartScreen appears: More info → Run anyway
+
+> **`comfyui-install-2026.exe`** is the Windows launcher for this pack (comfyui-install-2026).
